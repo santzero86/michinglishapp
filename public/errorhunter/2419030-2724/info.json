@@ -1,0 +1,40 @@
+{
+  "user": {
+    "username": "Santiago Guerrero",
+    "profileImage": "https://github.com/santzero86.png",
+    "socialNetwork": "github",
+    "socialLink": "@santzero86"
+  },
+  "errors": [
+    {
+      "sentence": "Can you borrow me your charger until the demo ends?",
+      "wrong": "borrow",
+      "correct": "lend",
+      "explanation": "You lend something to a teammate and borrow it from a teammate."
+    },
+    {
+      "sentence": "Please remind me upload the slides before the projector test.",
+      "wrong": "upload",
+      "correct": "to upload",
+      "explanation": "Use “remind someone to do something” when asking for a reminder."
+    },
+    {
+      "sentence": "I found the missing screenshoot in our team chat.",
+      "wrong": "screenshoot",
+      "correct": "screenshot",
+      "explanation": "A picture of what appears on a screen is called a screenshot."
+    },
+    {
+      "sentence": "The backup microphone is our, so please bring it back after the demo.",
+      "wrong": "our",
+      "correct": "ours",
+      "explanation": "Use “ours” without a noun and “our” before a noun."
+    },
+    {
+      "sentence": "Did anyone notice where did the cursor go during the recording?",
+      "wrong": "where did the cursor go",
+      "correct": "where the cursor went",
+      "explanation": "Inside an indirect question, use statement word order: “where the cursor went.”"
+    }
+  ]
+}
